@@ -1,0 +1,7 @@
+{
+    "dependents": [
+      {
+        "repository": "https://github.com/bethgriggs/sample-dependent"
+      }
+    ]
+  }
